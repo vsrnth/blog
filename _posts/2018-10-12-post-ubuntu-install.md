@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 10 or more things to do after installing Ubuntu
+title: Things to do after installing Ubuntu
 tags: [Ubuntu, Setup]
 ---
 
-### Stuff which makes your life easier after installing Ubuntu 16.04.
+### This stuff will make your life easier after installing Ubuntu 16.04.
 
 ***
+
+
 
 FB Reader
 - My favourite all purpose document reader, works out of the box & complements the pre installed the document reader.
