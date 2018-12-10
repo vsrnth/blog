@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: #
 url: "https://vsrnth.github.io"
-title: One more blog # site's title
+title: Swindle Sheet # site's title
 description: "I write about Ruby stuff" # used by search engines
 
 
